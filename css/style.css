@@ -1,0 +1,16 @@
+.bdshoping-bg-info{
+    background-color: #f1c09365;
+}
+.watch-1{
+    background-color: #ffa500;
+}
+.watch-2{
+    background-color: orchid;
+}
+.bd-shoping{
+    background-image: linear-gradient(to bottom, #e7893c 0%, #e9a040 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
